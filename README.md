@@ -4,7 +4,7 @@ Hello, I'm Nougator. I'm 15 years old guy from Switzerland. I'm self-taught prog
 Later, I want to work on embedded systems.
 
 If you want to reach me:
- - Discord: { Nougator }#1806
+ - Discord: Nougator#1806
  - Email: [nougator64@gmail.com](mailto:nougator64@gmail.com)
 
 <!--
